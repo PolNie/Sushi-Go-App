@@ -5,7 +5,7 @@ EXTENDED DESCRIPTION
 <div>
     <div>
         <img src="" height="205">
-        <img src="" height="210">
+        <img src="" height="205">
         <img src="" height="205">
         <img src="" height="205">
     </div>
