@@ -1,5 +1,5 @@
 # Sushi Go App 🍣
-EXTENDED DESCRIPTION
+Sushi Go is your go-to mobile app for exploring Asian cuisine. With easy geolocation features, it connects you to nearby Asian restaurants, from sushi bars to ramen spots. Promoting responsible dining, it helps you make informed choices while supporting local eateries. With its sleek design, it's your passport to culinary adventures.
 
 # Images Preview 📷
 <div>
