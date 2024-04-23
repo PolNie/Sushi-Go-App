@@ -4,10 +4,10 @@ Sushi Go is your go-to mobile app for exploring Asian cuisine. With easy geoloca
 # Images Preview 📷
 <div>
     <div>
-        <img src="" height="205">
-        <img src="" height="205">
-        <img src="" height="205">
-        <img src="" height="205">
+        <img src="https://github.com/PolNie/Sushi-Go-App/blob/main/img/image1.png" height="205">
+        <img src="https://github.com/PolNie/Sushi-Go-App/blob/main/img/image2.png" height="205">
+        <img src="https://github.com/PolNie/Sushi-Go-App/blob/main/img/image3.png" height="205">
+        <img src="https://github.com/PolNie/Sushi-Go-App/blob/main/img/image4.png" height="205">
     </div>
 </div>
 
@@ -18,4 +18,4 @@ Sushi Go is your go-to mobile app for exploring Asian cuisine. With easy geoloca
 To access the Sushi Go App project report, click [here](link_documentacion).
 
 ## Project Repository ⛓
-To access the Sushi Go App project link, click [here](https://gitlab.com/project3sushigo/sushigogroup2).
+To access the Sushi Go App project repository, click [here](https://gitlab.com/project3sushigo/sushigogroup2).
