@@ -17,5 +17,5 @@ Sushi Go is your go-to mobile app for exploring Asian cuisine. With easy geoloca
 ## Project Report 📚
 To access the Sushi Go App project report, click [here](link_documentacion).
 
-## Project Link ⛓
+## Project Repository ⛓
 To access the Sushi Go App project link, click [here](https://gitlab.com/project3sushigo/sushigogroup2).
