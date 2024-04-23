@@ -3,11 +3,19 @@ EXTENDED DESCRIPTION
 
 # Images Preview 📷
 <div>
-    <div>
-        <img src="" height="205">
-        <img src="" height="205">
-        <img src="" height="205">
-        <img src="" height="205">
+    <div style="display: flex; flex-wrap: wrap;">
+        <div style="flex: 50%; max-width: 50%;">
+            <img src="" height="205">
+        </div>
+        <div style="flex: 50%; max-width: 50%;">
+            <img src="" height="205">
+        </div>
+        <div style="flex: 50%; max-width: 50%;">
+            <img src="" height="205">
+        </div>
+        <div style="flex: 50%; max-width: 50%;">
+            <img src="" height="205">
+        </div>
     </div>
 </div>
 
