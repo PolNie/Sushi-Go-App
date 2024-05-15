@@ -19,3 +19,9 @@ To access the Sushi Go App project report, click [here](https://sushigogroup2-pr
 
 ## Project Repository ⛓
 To access the Sushi Go App project repository, click [here](https://gitlab.com/project3sushigo/sushigogroup2).
+
+
+
+
+
+[![Video Presentation](https://github.com/PolNie/Sushi-Go-App/blob/main/img/miniatura_video.jpg)](https://drive.google.com/file/d/13HpzVc9FgJNtsG-63SkUEtBV554o_al2/view?usp=sharing){:style="width: 300px; height: 200px;"}
