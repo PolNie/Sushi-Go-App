@@ -24,4 +24,6 @@ To access the Sushi Go App project repository, click [here](https://gitlab.com/p
 
 
 
-[![Video Presentation](https://github.com/PolNie/Sushi-Go-App/blob/main/img/miniatura_video.jpg)](https://drive.google.com/file/d/13HpzVc9FgJNtsG-63SkUEtBV554o_al2/view?usp=sharing){:style="width: 300px; height: 200px;"}
+<a href="https://drive.google.com/file/d/13HpzVc9FgJNtsG-63SkUEtBV554o_al2/view?usp=sharing">
+    <img src="https://github.com/PolNie/Sushi-Go-App/blob/main/img/miniatura_video.jpg" alt="Video Presentation" style="width:300px; height:200px;">
+</a>
