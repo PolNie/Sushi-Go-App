@@ -14,7 +14,7 @@ Sushi Go is your go-to mobile app for exploring Asian cuisine. With easy geoloca
 ## Video Presentation 🎞
 
 <a href="https://drive.google.com/file/d/13HpzVc9FgJNtsG-63SkUEtBV554o_al2/view?usp=sharing">
-    <img src="https://github.com/PolNie/Sushi-Go-App/blob/main/img/miniatura_video.jpg" alt="Video Presentation" style="max-width: 100%; height: 360px;">
+    <img src="https://github.com/PolNie/Sushi-Go-App/blob/main/img/miniatura_video.jpg" alt="Video Presentation" style="max-width: 100%; height: 320px;">
 </a>
 
 ## Project Report 📚
